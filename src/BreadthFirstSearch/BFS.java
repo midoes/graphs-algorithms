@@ -5,6 +5,10 @@ import java.util.Queue;
 
 public class BFS {
 	
+	/**
+	 * Implements the breadth first search algorithm
+	 * 
+	 * */
 	public void bfs(Vertex root) {
 		
 		// LinkedList implement the behavior of queue
